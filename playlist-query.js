@@ -60,7 +60,11 @@ function getPlaylistItems() {
 }
 
 function getVideoData(data) {
-  console.log('Getting video datas...');
+  if(_.isEmpty(data)){
+    console.log('Found zero new videos!')
+    return Promise.resolve([]);
+  }
+  console.log(`Getting video datas for ${data.length} new videos...`);
   let result = [];
   return Promise.each(data, (d, i) => {
     return request.make(YT_VIDEO_API_URI, {
