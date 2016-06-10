@@ -3,8 +3,14 @@ const Promise = require('bluebird');
 const _ = require('lodash');
 const moment = require('momentjs');
 const Schema = mongoose.Schema;
+const args = require('minimist')(process.argv.slice(2));
+const mongoUri = process.env.MONGO_URI || 'mongodb://localhost:27017/monday-youtube'; 
 
-mongoose.connect('mongodb://localhost:27017/monday-youtube');
+mongoose.connect(mongoUri, err => {
+	if(err) {
+		throw new Error(err);
+	}
+});
 
 const VideoSchema = new Schema(
 	{
@@ -29,7 +35,7 @@ function find(query) {
 }
 
 function update(query, data) {
-	return Video.updateAsync(query, data, { upsert: true });
+	return Video.updateAsync(query, _.omit(data, '_id'), { upsert: true });
 }
 
 function close() {

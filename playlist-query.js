@@ -1,6 +1,6 @@
 const Promise = require('bluebird');
 const _ = require('lodash');
-const args = require('minimist')(process.argv.slice(2));;
+const args = require('minimist')(process.argv.slice(2));
 
 const request = require('./request');
 const db = require('./db');
