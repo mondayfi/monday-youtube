@@ -1,0 +1,1262 @@
+[
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/NwYOojVkwTKoHhbR3hUashTC3U0\"",
+  "id": "uzWxaxRHfgQ",
+  "snippet": {
+   "publishedAt": "2016-01-11T08:07:33.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Virallinen aloitus vlogeille!",
+   "description": "Vuoden 2016 uudenvuodenlupaus: viikottainen vlogi, julkaisu maantantaisin.\n\nJätä kommentti mitä olit mieltä videosta ja mistä haluisit meidän puhuvan!\n\nMusiikki: \nJeff Kaale -  Dont Worry So Much\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/uzWxaxRHfgQ/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/uzWxaxRHfgQ/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/uzWxaxRHfgQ/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/uzWxaxRHfgQ/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/uzWxaxRHfgQ/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "monday digital",
+    "vlog",
+    "front end",
+    "kehittäjä",
+    "helsinki",
+    "web developer",
+    "monday.fi",
+    "pyry kovanen",
+    "samuel klinkmann"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "localized": {
+    "title": "Virallinen aloitus vlogeille!",
+    "description": "Vuoden 2016 uudenvuodenlupaus: viikottainen vlogi, julkaisu maantantaisin.\n\nJätä kommentti mitä olit mieltä videosta ja mistä haluisit meidän puhuvan!\n\nMusiikki: \nJeff Kaale -  Dont Worry So Much\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/hP1NdPGrDCLnBWyl5jWK_cQyjmM\"",
+  "id": "bmO4BwiwX9w",
+  "snippet": {
+   "publishedAt": "2016-01-18T10:58:19.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Yrittäminen",
+   "description": "Jakso 2. Pohdintaa yrittämisestä, ja ex tempore reissu verkkokauppa.com:iin.\n\nMusiikki: \nThe Passion HiFi - Introducing\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/bmO4BwiwX9w/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/bmO4BwiwX9w/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/bmO4BwiwX9w/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/bmO4BwiwX9w/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/bmO4BwiwX9w/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "yrittäminen",
+    "startup",
+    "monday digital oy",
+    "monday digital",
+    "vlogi",
+    "yrityksen vlogi",
+    "yritysvlogi",
+    "koodausfirma",
+    "front-end devaus",
+    "pyry kovanen",
+    "samuel klinkmann",
+    "front end",
+    "monday.fi"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "localized": {
+    "title": "Yrittäminen",
+    "description": "Jakso 2. Pohdintaa yrittämisestä, ja ex tempore reissu verkkokauppa.com:iin.\n\nMusiikki: \nThe Passion HiFi - Introducing\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/2xJ61OhUj98ySYSICEAWdsiuDi4\"",
+  "id": "C8xq0gwQpjA",
+  "snippet": {
+   "publishedAt": "2016-01-25T11:00:06.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Kehityskeskustelut Tallinnassa",
+   "description": "Jakso 3. Puhutaan meidän tavoitteista vuodelle 2016. Tämä kaikki tapahtuu Viron pääkaupungissa Tallinnassa.\n\nMusiikki: \nJeff Kaale - Cookie\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/C8xq0gwQpjA/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/C8xq0gwQpjA/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/C8xq0gwQpjA/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/C8xq0gwQpjA/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/C8xq0gwQpjA/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "pyry kovanen",
+    "tallin",
+    "tallinna",
+    "viro",
+    "kehityskeskustelut",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "localized": {
+    "title": "Kehityskeskustelut Tallinnassa",
+    "description": "Jakso 3. Puhutaan meidän tavoitteista vuodelle 2016. Tämä kaikki tapahtuu Viron pääkaupungissa Tallinnassa.\n\nMusiikki: \nJeff Kaale - Cookie\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/IwpUK54yRdCWdMwfmM-b89OvTzM\"",
+  "id": "MV892A6n1KY",
+  "snippet": {
+   "publishedAt": "2016-02-01T11:00:00.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Samuel esittäytyy",
+   "description": "Jakso 4. Tämän viikon jakso on hieman lyhyempi. Luvassa Samuelin esittely.\n\nMusiikki : https://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/MV892A6n1KY/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/MV892A6n1KY/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/MV892A6n1KY/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/MV892A6n1KY/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/MV892A6n1KY/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajt"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Samuel esittäytyy",
+    "description": "Jakso 4. Tämän viikon jakso on hieman lyhyempi. Luvassa Samuelin esittely.\n\nMusiikki : https://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/j59B16ESOhbOyjPipw3mQ1tFEyA\"",
+  "id": "UHQOG_80wK4",
+  "snippet": {
+   "publishedAt": "2016-02-08T11:00:21.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "InstaTram ja sovelluskehittäminen",
+   "description": "Jakso 5. Meillä oli viikko aikaa päästä ideasta toimivaan sovellukseen. Katso video niin tiedät miten meille kävi.\n\nMusiikki: \nhttps://soundcloud.com/curve-quartet\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/UHQOG_80wK4/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/UHQOG_80wK4/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/UHQOG_80wK4/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/UHQOG_80wK4/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/UHQOG_80wK4/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajt",
+    "instatram",
+    "react native",
+    "react",
+    "natiivi applikaatio",
+    "sovelluskehitys",
+    "sovelluskehittäminen",
+    "pyry kovanen"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "localized": {
+    "title": "InstaTram ja sovelluskehittäminen",
+    "description": "Jakso 5. Meillä oli viikko aikaa päästä ideasta toimivaan sovellukseen. Katso video niin tiedät miten meille kävi.\n\nMusiikki: \nhttps://soundcloud.com/curve-quartet\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/AS4fqBB6JG-zdK_L0fKVrCovPmY\"",
+  "id": "OOb7p2aubPQ",
+  "snippet": {
+   "publishedAt": "2016-02-15T11:00:22.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Miten hyvin tunnet Pyryn?",
+   "description": "Jakso 6. Pyryn vuoro esittäytyä. Saamme kuulla mitä Pyry oikein tekee ja mistä hän tykkää!\n\nMusiikki: \nAndrew Applepie https://soundcloud.com/andrewapplepie\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/OOb7p2aubPQ/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/OOb7p2aubPQ/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/OOb7p2aubPQ/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/OOb7p2aubPQ/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/OOb7p2aubPQ/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajt",
+    "pyry kovanen",
+    "react native",
+    "react",
+    "node.js",
+    "devari",
+    "devi",
+    "vlogattaja",
+    "weeks have never started this well"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "localized": {
+    "title": "Miten hyvin tunnet Pyryn?",
+    "description": "Jakso 6. Pyryn vuoro esittäytyä. Saamme kuulla mitä Pyry oikein tekee ja mistä hän tykkää!\n\nMusiikki: \nAndrew Applepie https://soundcloud.com/andrewapplepie\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/JpI4z1Az8e1D5AGAXQiVWrkw1fA\"",
+  "id": "hN5NHS9TL14",
+  "snippet": {
+   "publishedAt": "2016-02-22T10:50:59.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Suomen globaalein designtoimisto! – Vierailu @ Idean",
+   "description": "Jakso 7. Tässä jaksossa päästään kulissien taakse ja näkemään minkälaisessa ympäristössä suomen ja maailman parhaat käyttöliittymät tehdään.  Yrityksen nimi on Idean, ja se toimii suomen lisäksi Euroopassa ja Amerikassa. Samuel juttelee Johanna Noreilan kanssa Ideanin kulttuurista ja työtavoista ja saadaan pieni katsaus Ideanin eri toimistoista.\n\nVideosisältö:\nIdean Austin, https://vimeo.com/92249235\nIdean Iceland, https://vimeo.com/138556030\n\nKiitos:\nIdean\nJohanna Noreila\nViljami Salminen\nRasmus Tåg\n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale/\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/hN5NHS9TL14/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/hN5NHS9TL14/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/hN5NHS9TL14/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/hN5NHS9TL14/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/hN5NHS9TL14/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "idean enterprises",
+    "idean helsinki",
+    "office tour",
+    "ux office",
+    "business office",
+    "world's coolest office",
+    "Yritysvlogi",
+    "yritysvlogaajat"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "localized": {
+    "title": "Suomen globaalein designtoimisto! – Vierailu @ Idean",
+    "description": "Jakso 7. Tässä jaksossa päästään kulissien taakse ja näkemään minkälaisessa ympäristössä suomen ja maailman parhaat käyttöliittymät tehdään.  Yrityksen nimi on Idean, ja se toimii suomen lisäksi Euroopassa ja Amerikassa. Samuel juttelee Johanna Noreilan kanssa Ideanin kulttuurista ja työtavoista ja saadaan pieni katsaus Ideanin eri toimistoista.\n\nVideosisältö:\nIdean Austin, https://vimeo.com/92249235\nIdean Iceland, https://vimeo.com/138556030\n\nKiitos:\nIdean\nJohanna Noreila\nViljami Salminen\nRasmus Tåg\n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale/\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/svVQ7t4GX783qyelC1KwiQZddVM\"",
+  "id": "2Zk5mMMl9ME",
+  "snippet": {
+   "publishedAt": "2016-02-29T11:01:24.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "QA, eli vastaamme kysymyksiin!",
+   "description": "Jakso 8. Mitäs tulevissa jaksossa tapahtuu? Jotain hyvin jännittävää! Vastataan myöskin muutamiin kysymyksiin tämän viikon jaksossa!\n\nMusiikki: \nhttps://soundcloud.com/andrewapplepie\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/2Zk5mMMl9ME/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/2Zk5mMMl9ME/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/2Zk5mMMl9ME/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/2Zk5mMMl9ME/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/2Zk5mMMl9ME/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "pyry kovanen",
+    "monday digital",
+    "onko vlogi työläs?",
+    "miksi palkata freelancer?",
+    "freelancer",
+    "miksi palkata?",
+    "front-end developer"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "localized": {
+    "title": "QA, eli vastaamme kysymyksiin!",
+    "description": "Jakso 8. Mitäs tulevissa jaksossa tapahtuu? Jotain hyvin jännittävää! Vastataan myöskin muutamiin kysymyksiin tämän viikon jaksossa!\n\nMusiikki: \nhttps://soundcloud.com/andrewapplepie\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/nHrtM9RSSTzXy_fiV2sHqRFjtkM\"",
+  "id": "o9bgi9cgml0",
+  "snippet": {
+   "publishedAt": "2016-03-07T11:00:09.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Mikä on suunnittelijan tärkein ominaisuus?",
+   "description": "Jakso 9. Kävimme kurkkaamassa Interaction 16 -konferenssin antia ja haastattelimme Sami Niemelää, Jouni Linkolaa, Marco Suvantoa ja Hannu Aarnialaa. Katso videosta mistä interaktiosuunnittelussa on kyse!\n\nIso kiitos:\nInteraction 16 organizers\nHannu Aarniala\nMarco Suvanto\nJouni Linkola\nSami Niemelä\nTomi Leivo\n\nMusiikki: \nhttps://soundcloud.com/panthurr\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/o9bgi9cgml0/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/o9bgi9cgml0/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/o9bgi9cgml0/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/o9bgi9cgml0/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/o9bgi9cgml0/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "interaction 16",
+    "interaction design",
+    "palvelumuotoilu",
+    "konferenssi helsinki",
+    "konferenssi",
+    "helsinki",
+    "pyry kovanen"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "What’s the most important quality in a designer?",
+    "description": "!!ENABLE ENGLISH CAPTIONS!!\nEpisode 9. We went to the Interaction 16 conference in Helsinki and interviewed guys like Sami Niemelä, Jouni Linkola, Marco Suvanto and Hannu Aarniala. Check out the video and find out what interaction design is all about!\n\nThanks:\nInteraction 16 organizers\nHannu Aarniala\nMarco Suvanto\nJouni Linkola\nSami Niemelä\nTomi Leivo\n\nMusic: \nhttps://soundcloud.com/panthurr\n\nhttp://monday.fi\n___\nJoin us in social media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/wPlIZdw28CmMOf-ZNSSS92wxdGI\"",
+  "id": "0tqjgxmRWu8",
+  "snippet": {
+   "publishedAt": "2016-03-21T11:00:16.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Bigger is better. SXSW, Austin, Texas - osa 2",
+   "description": "Jakso 11: Millaisen auton pojat löytävät? Meno Austinin lämmössä jatkuu. Tekemistä SXSW-konferenssissa riittää enemmän kuin tarpeeksi, Spotify House tarjoaa musiikit ja tunnelma alkaa olla kuin kunnon festareilla pitääkin. Suosittelemme lämpimästi käyntiä SXSW:ssä - tekee hyvää päästä katsomaan maailmaa Suomen ulkopuolella.\n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/0tqjgxmRWu8/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/0tqjgxmRWu8/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/0tqjgxmRWu8/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/0tqjgxmRWu8/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/0tqjgxmRWu8/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajt",
+    "pyry kovanen",
+    "sxsw",
+    "austin",
+    "texas",
+    "austin texas",
+    "south by",
+    "south by southwest"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Bigger is better. SXSW 2016, Austin, Texas - part 2",
+    "description": "EPISODE 11: SXSW, part 2! We continue our SXSW experience by hitting the conference floor and finding lots of interesting sessions. We visit the Spotify House and go all in with our car rental - check out our fancy ride! All in all, SXSW was a blast - highly recommended, you really should go and get inspired!\nENABLE ENGLISH CAPTIONS!\n\nMusic:\nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday on social media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/yJWuwDMH9Q_ab-kBaQxEFoBEkxk\"",
+  "id": "IKSJC1GQ6qo",
+  "snippet": {
+   "publishedAt": "2016-03-14T13:49:41.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Pojat Texasissa. SXSW, Austin, Texas - osa 1",
+   "description": "Jakso 10. Tuleekohan Texasissa vettä? Kurkkaa videolta ensitunnelmia SXSW-festareilta, katso miltä näyttää Pyry ja Samuel jet lagin kourissa ja fiilistele vähän Austinin tunnelmia ja maisemia. \n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/IKSJC1GQ6qo/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/IKSJC1GQ6qo/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/IKSJC1GQ6qo/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/IKSJC1GQ6qo/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/IKSJC1GQ6qo/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat",
+    "sxsw",
+    "texas austin",
+    "austin texas"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Monday Digital at SXSW 2016, Austin, Texas - part 1",
+    "description": "Greetings from Texas! We’re in Austin for the SXSW event and it’s pretty nice over here. Check out our arrival video for some first impressions and some great Austin footage. Check out our vid and if you have any Texas tips to share, leave them down below in the comments!\n\nMusic: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday in Social Media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/oOhvF9VNs8k4Ee6vqDoGeDAEpg0\"",
+  "id": "bTv7vqumvEQ",
+  "snippet": {
+   "publishedAt": "2016-03-28T10:26:46.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Kannattaako Nykiin muuttaa?",
+   "description": "Jakso 12: New York! Pyry ja Samuel löytävät New Yorkista pari tuttua naamaa. Juttelemme Hannu Oksan (Creative Director, Reaktor New York) ja Satu Pelkosen (AD, Stinkdigital) kanssa New Yorkiin muuttamisesta ja kaupungissa työskentelemisestä. Miten suomalaiset erottuvat työntekijöinä? Pystyykö Nykin hintatason kanssa elämään? Katso video ja tilaa kanavamme!\n\nMusiikki: \nhttps://soundcloud.com/panthurr\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/bTv7vqumvEQ/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/bTv7vqumvEQ/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/bTv7vqumvEQ/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/bTv7vqumvEQ/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/bTv7vqumvEQ/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital",
+    "monday",
+    "vlog",
+    "yritys vlogi",
+    "yritysvlogaajat",
+    "new york",
+    "satu pelkonen",
+    "hannu oksa",
+    "reaktor",
+    "stink digital"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Should I move to New York?",
+    "description": "EPISODE 12: New York, New York! Have you ever considered moving to or working in New York? We sat down with Hannu Oksa from Reaktor and Satu Pelkonen from Stinkdigital and discussed all things New York. What makes Finns stand out as employees? Can you afford living in New York? Check the video to find out!\nENABLE ENGLISH CAPTIONS!\n\nMusic: \nhttps://soundcloud.com/panthurr\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/Sbmap8zo1YxNtwy0e1u7nVWuPKY\"",
+  "id": "64OkYq7UUq0",
+  "snippet": {
+   "publishedAt": "2016-04-04T09:59:45.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Working in New York",
+   "description": "EPISODE 13: Everything's bigger in New York - including clients and projects. You get the chance to work with the biggest players in the business and see where the industry is headed. But what really special can European development talent bring to the table?\n\nWe interviewed Arnaud Tanielian and Mathias Van Impe, two top-notch developers from Stinkdigital in New York. Check out the vid to see what they have to say!\n\nMusic: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/64OkYq7UUq0/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/64OkYq7UUq0/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/64OkYq7UUq0/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/64OkYq7UUq0/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/64OkYq7UUq0/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "vlog",
+    "yritys",
+    "vlogi",
+    "yritysvlogaajat",
+    "monday",
+    "arnaud tanielian",
+    "mathias van impe",
+    "stink digital",
+    "experience developers",
+    "interview with experience developer",
+    "interview developer"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "en",
+   "localized": {
+    "title": "Working in New York",
+    "description": "EPISODE 13: Everything's bigger in New York - including clients and projects. You get the chance to work with the biggest players in the business and see where the industry is headed. But what really special can European development talent bring to the table?\n\nWe interviewed Arnaud Tanielian and Mathias Van Impe, two top-notch developers from Stinkdigital in New York. Check out the vid to see what they have to say!\n\nMusic: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/BcL7XkXBUdIoLGPkvqfSafl4e54\"",
+  "id": "tD--cFVrXsU",
+  "snippet": {
+   "publishedAt": "2016-04-11T10:07:16.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Palkitse pelillistämisellä",
+   "description": "Jakso 14: Miten palvelusi palkitsee käyttäjiä? Voisiko pelillistäminen, gamification, toimia sinulle? Tässä videossa Samuel juttelee Richenin Fredrik Sirénin kanssa käyttäjien palkitsemisesta ja koukuttamisesta. Opimme, ettei itse palkkio ole kaikki kaikessa vaan kyse on myös paljon muusta!\n\nJOS PIDIT SISÄLLÖSTÄ, PAINA PEUKKUA JA TILAA KANAVA!\n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/tD--cFVrXsU/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/tD--cFVrXsU/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/tD--cFVrXsU/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/tD--cFVrXsU/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/tD--cFVrXsU/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat",
+    "fredrik sirén",
+    "fredrik richen",
+    "fredrik siren",
+    "richen",
+    "gamification",
+    "pelillistäminen"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Level up with gamification",
+    "description": "EPISODE 14: How do you reward your users and customers? In this video, Samuel sits down with Fredrik Sirén from Richen to talk about gamification. Gamification seems to be a great way to reward your users for using your service. And it’s not all about the reward itself - Status, Access and Power count, too!\n\nENABLE ENGLISH SUBS and HIT LIKE & SUBSCRIBE IF YOU LIKED THE VIDEO!\n\nMusic: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/YqjHBwhQHEkQevUd3agIEd6VYWE\"",
+  "id": "D__h3t9kpBM",
+  "snippet": {
+   "publishedAt": "2016-04-18T10:00:30.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Pyry ♥ Lucy",
+   "description": "Jakso 15: Mitä tuollainen dashboardi tekee tälläisessä paikassa? Dear Lucyn toimisto ja tuote ovat kuin kaksi mansikkaa - molemmat ovat aivan sairaan siistejä! Videolla sisustusideoita toimistoon, ihania ihmisiä, fiksua tekkiä ja Pyryn mokia. Muistathan leikata tuon pätkän pois?\n\nSuuri kiitos Skattan suuntaan Dear Lucyn Taina Sipilälle ja Rasmus Backille! Mikäli duuni aivan mainion tiimin ja tuotteen kanssa kiinnostaa, käy katsomassa avoimet työpaikat: https://www.dearlucy.co/en/company/#section/careers\n\nEDITOINTI: Eva Lingon http://www.evalingon.com - iso kiitos Rasmus & Tage!\n\nPEUKUTA JA TILAA KANAVA JOS TYKKÄSIT!\n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/D__h3t9kpBM/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/D__h3t9kpBM/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/D__h3t9kpBM/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat",
+    "pyry kovanen",
+    "taina sipilä",
+    "ramus back",
+    "dear lucy",
+    "reaktor cto",
+    "sympa",
+    "sympa hr"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "When Pyry met Lucy",
+    "description": "EPISODE 15: What is a dashboard like you doing in a place like this? While Dear Lucy's office is just INSANE, their product is actually really smart. And Pyry has been working on it for a while now! Check out the video for some great office design ideas, truly nice people, smart tech and Pyry's bloopers. Cut!\n\nMany thanks to Taina Sipilä & Rasmus Back at Dear Lucy! If YOU want to build a cool product together with a cool team, check out www.dearlucy.co/en/company/#section/careers\n\nVIDEO EDITING BY Eva Lingon www.evalingon.com - thanks Rasmus & Tage!\n\nENABLE ENGLISH SUBS and HIT LIKE & SUBSCRIBE IF YOU LIKED THE VID!\n\nMusic: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/_MF_iUZ6kVlRli48jqYMhiE6HvQ\"",
+  "id": "msRy12uzhcU",
+  "snippet": {
+   "publishedAt": "2016-04-25T10:01:06.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Etsitään uutta toimistoa!",
+   "description": "Jakso 16: Monday Digital muuttaa! Pyry ja Samuel etsivät nyt uutta noin 35-60 neliön toimistoa Kalliosta - jos tiedät sopivan tilan, jätä kommentti tai ota suoraan yhteyttä info@monday.fi . \n\nNykyinen toimistomme Kampissa on pian vapaana. Katso vanhan toimiston videoesittely ja ota yhteyttä jos sinä tai joku tuttusi tarvitsee työtilaa ihan Hietalahden kauppahallin tuntumasta!\n\nPEUKUTA JA TILAA KANAVA JOS TYKKÄSIT!\n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/msRy12uzhcU/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/msRy12uzhcU/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/msRy12uzhcU/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/msRy12uzhcU/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "pyry kovanen",
+    "kalevankatu",
+    "toimisto",
+    "vapaata toimistotilaa",
+    "vuokraa toimitilaa"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Looking for new office!",
+    "description": "EPISODE 16: Monday Digital is looking for a new office! We are trying to find a new office space in Kallio, Helsinki. A perfect space is 35-60 m2 in size and suitable for at least 3 desks. Know any? Leave a comment down below or contact us at info@monday.fi !\n\nAlso, our current office in Kamppi is soon available. Check out the video intro to the office and let us know if you or someone else is interested - we will hook you up with the right person!\n\nENABLE ENGLISH SUBS and HIT LIKE & SUBSCRIBE IF YOU LIKED THE VID!\n\nMusic: \nhttps://soundcloud.com/jeff-kaale\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/fH2xEIhxAjV1V2r7oNCvnDo6KvU\"",
+  "id": "PcnVqUeaAxw",
+  "snippet": {
+   "publishedAt": "2016-05-02T10:27:06.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "HSL:n Reittioppaan arvio ja läpikäynti",
+   "description": "Jakso 17. Miten loistavia digipalveluita kehitetään? Avoimuudella, läpinäkyvyydellä ja ottamalla käyttäjät mukaan kehitystyöhön! Helsingin seudun julkista liikennettä pyörittävä HSL on avannut uuden Reittioppaan julkiseen beta-kokeiluun sekä julkaissut palvelun koodin avoimena koodina GitHubissa. Monday Digital arvostaa suuresti näin avointa lähestymistapaa!\n\nVideossa Samuel arvioi ja käy läpi betassa olevan Reittioppaan. Vaikka designista löytyy vielä viilattavaa, tekninen toteutus on kunnossa ja luvassa on Helsingin julkista liikennettä käyttäville asukkaille mahtava palvelu. Oletko kritiikistä samaa mieltä Samuelin kanssa? Jätä kommentti ja muista käydä antamassa myös oma palautteesi Reittioppaan kehitystiimille!\n\nPEUKUTA JA TILAA KANAVA JOS TYKKÄSIT!\n\nMusiikki: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/PcnVqUeaAxw/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/PcnVqUeaAxw/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/PcnVqUeaAxw/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/PcnVqUeaAxw/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/PcnVqUeaAxw/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "yritysvlogaajat",
+    "monday vlog",
+    "monday vlogi",
+    "hsl",
+    "reittiopas"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Helsinki Journey Planner review!",
+    "description": "EPISODE 17: How do you develop killer digital services? By being open, transparent and involving your users. The Helsinki area public transport (HSL/HRT) has released it’s new Journey Planner as an open beta and made the code open source - very well done, respect from Monday Digital!\n\nThis is a video review and walkthrough of the Journey Planner service, still in beta. We found that while the design needs some further polishing, the service stands on a solid technical foundation and the development team is on to something really great here. Do you agree with Samuel? Tell us in the comments and remember to check out the Journey Planner for yourself!\n\nMusic: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/bSXkDiV5KnZhApHs7sfl45hsTqY\"",
+  "id": "rquf-2gx0eY",
+  "snippet": {
+   "publishedAt": "2016-05-09T09:59:37.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Lifehackit softakehittäjille",
+   "description": "Jakso 18: Tällä kertaa Pyry esittelee 3 lifehackia, joilla voi tehdä ohjelmistokehityksestä sujuvampaa. Mitä niksejä itsellesi tulee mieleen, koodaukseen tai ihan mihin vaan arjen parantamiseen liittyen? Lisää omat vinkkisi kommentteihin ja tilaa kanavamme!\n\nVideossa esitellyt sovellukset:\nAlfred for OS X (www.alfredapp.com) : Alfred tekee OS X:n käytöstä tehokkaampaa pikanäppäinten ja avainsanojen avulla. Etsi Mac-tietokoneestasi ja webistä helposti ja hallitse Mac-tietokonetta kustomoitavilla toiminnoilla.\n\nSpectacle (www.spectacleapp.com) : Hallitse OS X -käyttöjärjestelmän sovellusten ikkunoita yksinkertaisilla, kustomoitavilla pikanäppäimillä.\n\niTerm 2 (https://www.iterm2.com/) : Korvaa OS X:n oma terminaalisovellus tällä tehokkaalla ja kustomoitavalla terminaalilla.\n\nMusiikki: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/rquf-2gx0eY/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/rquf-2gx0eY/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/rquf-2gx0eY/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/rquf-2gx0eY/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/rquf-2gx0eY/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "pyry kovanen",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Lifehacks for developers",
+    "description": "EPISODE 18: In this video, Pyry from Monday Digital lists 3 of his favorite lifehacks that make software development more efficient. What are your favorite #lifehacks that make your workflows easier? Please share!\n\nLinks for the presented apps:\nAlfred for OS X (www.alfredapp.com) : Alfred boosts your efficiency with hotkeys and keywords. Search your Mac and the web and control your Mac with customized actions.\n\nSpectacle (www.spectacleapp.com) : Control your OS X app windows with simple and customizable keyboard shortcuts.\n\niTerm 2 (https://www.iterm2.com/) : Replace your standard Mac terminal with this highly customizable terminal app.\n\nENABLE ENGLISH SUBS and HIT LIKE & SUBSCRIBE IF YOU LIKED THE VID!\n\nMusic: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/karEAjx37_ZTLmRi_gtPCv5-2Vo\"",
+  "id": "Ywnc2y5tFag",
+  "snippet": {
+   "publishedAt": "2016-05-16T10:06:05.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Grand One 2016 & Ping Helsinki",
+   "description": "Jakso 19: Tämän viikon videossa Samuel vierailee sekä Grand One 2016 -digimarkkinointigaalassa että Ping Helsinki -sisältömarkkinointifestareilla. Kurkkaa videosta näytteitä gaalasta (ja tsekkaa Dynamo&Sonin tekemät hieno visuilme!) ja vilkaise miltä sisältömarkkinoinnin festarit näyttävät.\n\nJos sinulla on kehitysideoita tämän Monday Digitalin oman vlogin ja YouTube-kanavan suhteen, kerro ne meille! Arvostamme kovasti kommenttejasi sillä teemme tätä kanavaa juuri sinua varten.\n\nTapahtumista:\nGrand One 2016 on Suomen suurin digitaalisen markkinoinnin gaala. Digimarkkinoinnin asiantuntijat - digihessut - kerääntyvät tapahtumaan moikkaamaan vanhoja tuttuja ja palkitsemaan vuoden parhaita projekteja.\n\nPing Helsinki 2016 on Suomen suurin sisältömarkkinoinnin festivaali. Tänä vuonna festari järjestettiin Långvikissä ja ohjelmassa oli puheita sekä workshoppeja erilaisiin sisältömarkkinoinnin aiheisiin liittyen.\n\nMusiikki: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/Ywnc2y5tFag/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/Ywnc2y5tFag/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/Ywnc2y5tFag/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/Ywnc2y5tFag/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/Ywnc2y5tFag/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Grand One 2016 & Ping Helsinki",
+    "description": "EPISODE 19: Monday Digital’s own Samuel visited both the Grand One digital marketing gala in Helsinki and the Ping Helsinki content marketing event. Check out the video for a look at the gala floor (sporting great visual design by Dynamo&Son!) and a quick look at the content marketing festival.\n\nIf you have any opinions on how we should develop our YouTube channel, please let us know in the comments! After all, we’re doing this for you - we love our viewers!\n\nAbout the events:\nGrand One 2016 is the biggest digital marketing gala in Finland. Digital marketers go to the event to meet up with friends and colleagues and to award the best achievements of the year.\n\nPing Helsinki 2016 is the biggest - or the only? - content marketing festival in Finland. This year, the festival was held in Långvik and included presentations, keynotes and workshops in all things related to content marketing.\nENABLE ENGLISH SUBS and HIT LIKE & SUBSCRIBE IF YOU LIKED THE VID!\n\nMusic: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/vG-QPNaN9kBuwSl-VuHMXphwWA4\"",
+  "id": "Oi8wL-rvbag",
+  "snippet": {
+   "publishedAt": "2016-05-23T09:59:37.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "Pyry pulassa!",
+   "description": "Jakso 20: Pyry on pulassa! Pyryllä kiire polttelee kantapäitä eikä saatavilla ole menopeliä. Mikä neuvoksi?\n\nMonday Digital lämpimästi suosittelee julkisia kulkuvälineitä kuten uusia Helsingin kaupunkipyöriä. Kaupunkipyörällä pääset kätevästi paikasta paikkaan ja saat tilaisuuden nauttia kesäisestä Helsingistä!\n\nJos käytät Helsingin kaupunkipyöriä, muista myös webbisaitti www.kaupunkifillarit.fi. Tältä Reaktorin vapaa-ajalla rakentamalta saitilta löydät tietoja pyöräparkeista ja pyörien saatavuudesta.\n\nMusiikki: \nhttps://soundcloud.com/jeff-kaale\nhttps://soundcloud.com/panthurr\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/Oi8wL-rvbag/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/Oi8wL-rvbag/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/Oi8wL-rvbag/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/Oi8wL-rvbag/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/Oi8wL-rvbag/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "Pyry kovanen",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Pyry in trouble!",
+    "description": "EPISODE 20: Pyry is in trouble! Pyry should get as fast as possible from point A to point B in Helsinki. He has no ride. What’s Pyry’s solution?\n\nMonday Digital warmly recommends using public transportation, such as the new Helsinki City Bikes for getting around Helsinki. It allows you to take in the beautiful summer weather in this beautiful city!\n\nIf you are a Helsinki tourist or a Helsinki resident who uses the City Bikes, remember to check out the www.kaupunkifillarit.fi website, which gives you information on bike parks and bike availability. Thank you Reaktor for developing the service!\n\nMusic: \nhttps://soundcloud.com/jeff-kaale\nhttps://soundcloud.com/panthurr\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/-gq6f_PwDJSESlUDP-16JQg3hSg\"",
+  "id": "FCKU8czetT8",
+  "snippet": {
+   "publishedAt": "2016-05-30T18:12:25.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "BotCamp hackathon Berliinissä!",
+   "description": "JAKSO 21: Haluatko chatata formulatähden kanssa? Osallistuimme Berliinissä Red Bullin järjestämään Botcamp Hackathoniin ja kehitimme omaa viestintäkonseptiamme. Katso videolta Berliinin tunnelmia sekä miltä hackathonissa näyttää!\n\nBotCamp hackathon 2016 järjestäjänä toimi kreait & Red Bull.\n\nKiitos Helsinki Business Hub kutsusta!\n\nMusiikki: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/FCKU8czetT8/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/FCKU8czetT8/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/FCKU8czetT8/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/FCKU8czetT8/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/FCKU8czetT8/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "Red Bull BotCamp Hackathon in Berlin!",
+    "description": "EPISODE 21: Would you like to chat to your favorite F1 star? We went to the BotCamp Hackathon in Berlin to hack together our communication bot concept. Check out the video for some fabulous Berlin scenes and an inside look to a hackathon.\n\nThe BotCamp hackathon 2016 was arranged by kreait & Red Bull.\n\nTURN ON ENGLISH SUBS!\n\nMusic: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ },
+ {
+  "kind": "youtube#video",
+  "etag": "\"0Fu6lI6VPLdRMlQU3wwNcowdAUs/cOcJ-glxnyuPvp3j892Au98N0TM\"",
+  "id": "DlxEhc0pGIw",
+  "snippet": {
+   "publishedAt": "2016-06-06T09:56:30.000Z",
+   "channelId": "UCtHdo16gUUHRvBaYqwQisrQ",
+   "title": "TOP 5 syytä aloittaa Sketchin käyttö!",
+   "description": "JAKSO 22: Oletko UI-ammattilainen, joka haluaa tehdä työnsä mahdollisimman tehokkaasti? Siinä tapauksessa Sketch on juuri sinun juttusi. Tässä videossa Monday Digitalin Samuel kertoo TOP 5 syytä siihen, miksi jokaisen käyttöliittymien kanssa työskentelevän suunnittelijan tai kehittäjän täytyy kokeilla Sketchin käyttöä.\n\nJos sinulla on kokemuksia Sketchistä, linkkejä vinkkivideoihin tai killeriplugineihin, jaa ne kommenteissa!\n\nVoit ladata Sketchin osoitteesta www.sketchapp.com Suosittelemme ehdottomasti lataamaan myös Sketch Toolboxin http://sketchtoolbox.com/ jonka avulla löydät kaikki parhaat Sketch-pluginit.\n\nMusiikki: \nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nMonday somessa:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/",
+   "thumbnails": {
+    "default": {
+     "url": "https://i.ytimg.com/vi/DlxEhc0pGIw/default.jpg",
+     "width": 120,
+     "height": 90
+    },
+    "medium": {
+     "url": "https://i.ytimg.com/vi/DlxEhc0pGIw/mqdefault.jpg",
+     "width": 320,
+     "height": 180
+    },
+    "high": {
+     "url": "https://i.ytimg.com/vi/DlxEhc0pGIw/hqdefault.jpg",
+     "width": 480,
+     "height": 360
+    },
+    "standard": {
+     "url": "https://i.ytimg.com/vi/DlxEhc0pGIw/sddefault.jpg",
+     "width": 640,
+     "height": 480
+    },
+    "maxres": {
+     "url": "https://i.ytimg.com/vi/DlxEhc0pGIw/maxresdefault.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   "channelTitle": "Monday Digital",
+   "tags": [
+    "samuel klinkmann",
+    "monday digital oy",
+    "monday vlog",
+    "yritys vlogi",
+    "yritysvlogaajat",
+    "sketch",
+    "ux developer"
+   ],
+   "categoryId": "22",
+   "liveBroadcastContent": "none",
+   "defaultLanguage": "fi",
+   "localized": {
+    "title": "TOP 5 reasons why you should start using Sketch!",
+    "description": "EPISODE 22: Are you a UI/UX designer or a software developer who likes to work as efficiently as possible? If so, Sketch is for you. In this video, Monday Digital’s Samuel explains his TOP 5 reasons why every UI professional should give Sketch a go.\n\nIf you have personal Sketch experiences, a great tutorial or a must-have killer plugin in mind, please leave a comment and share!\n\nYou can get Sketch from www.sketchapp.com and Sketch Toolbox, the best Sketch plugin manager, from http://sketchtoolbox.com/. \n\nMusic:\nhttps://soundcloud.com/joakimkarud\n\nhttp://monday.fi\n___\nSocial media:\n\nhttps://twitter.com/mondayfi\nhttps://www.facebook.com/mondaydigital/"
+   },
+   "defaultAudioLanguage": "fi"
+  }
+ }
+]
