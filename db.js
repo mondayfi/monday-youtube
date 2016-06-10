@@ -29,7 +29,7 @@ function find(query) {
 }
 
 function update(query, data) {
-	return Video.update(query, data, { upsert: true });
+	return Video.updateAsync(query, data, { upsert: true });
 }
 
 function close() {

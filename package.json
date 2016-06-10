@@ -14,6 +14,7 @@
     "lodash": "^4.13.1",
     "log-timestamp": "^0.1.2",
     "memcached": "^2.2.2",
+    "minimist": "^1.2.0",
     "moment": "^2.13.0",
     "momentjs": "^1.1.7",
     "mongoose": "^4.4.20",

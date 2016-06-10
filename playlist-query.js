@@ -1,10 +1,12 @@
 const Promise = require('bluebird');
 const _ = require('lodash');
+const args = require('minimist')(process.argv.slice(2));;
 
 const request = require('./request');
 const db = require('./db');
 const { YT_PLAYLIST_API_URI, YT_VIDEO_API_URI, YT_PLAYLIST_ID } = require('./constants');
 require('log-timestamp');
+
 function normalizeData(videos) {
   return _.map(videos, v => {
     const { title, description, thumbnails, resourceId, publishedAt, localized, tags } = v.snippet;
@@ -28,18 +30,37 @@ function normalizeData(videos) {
   })
 }
 
+function filterVideosToQuery(foundIds) {
+  if(args['update-all']) {
+    return Promise.resolve(foundIds);
+  }
+  return db.find({})
+    .then(foundVideos => {
+      const storedIds = _.map(foundVideos, v => v._id);
+      const newIds = _.difference(foundIds, storedIds);
+      return newIds;
+    });
+}
+
 function mapVideoId(data) {
   return _.map(data, d => d.contentDetails.videoId);
 }
 
 function getPlaylistItems() {
+  console.log('Getting playlist data...')
   return request.make(YT_PLAYLIST_API_URI, {
     playlistId: YT_PLAYLIST_ID,
     part: 'contentDetails'
-  }).then(mapVideoId)
+  })
+  .then(d => {
+    console.log('Playlist data query finished.')
+    return d;
+  })
+  .then(mapVideoId)
 }
 
 function getVideoData(data) {
+  console.log('Getting video datas...');
   let result = [];
   return Promise.each(data, (d, i) => {
     return request.make(YT_VIDEO_API_URI, {
@@ -51,7 +72,12 @@ function getVideoData(data) {
     .catch(err => {
       console.error(d, err)
     })
-  }).then(d => _.flatten(result))
+  })
+  .then(d => {
+    console.log('Video data query finished');
+    return d;
+  })
+  .then(d => _.flatten(result))
 }
 
 function saveToMongo(data) {
@@ -68,13 +94,22 @@ function saveToMongo(data) {
 
 function start() {
   getPlaylistItems()
+    .then(filterVideosToQuery)
     .then(getVideoData)
     .then(normalizeData)
     .then(saveToMongo)
     .then(d => {
       console.log('done, closing connection...');
       db.close();
-    });
+    })
+    .catch(e => {
+      console.error(e);
+      db.close();
+    })
+    .error(e => {
+      console.error(e);
+      db.close();
+    })
 }
 
 
