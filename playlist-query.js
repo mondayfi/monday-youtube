@@ -7,6 +7,10 @@ const db = require('./db');
 const { YT_PLAYLIST_API_URI, YT_VIDEO_API_URI, YT_PLAYLIST_ID } = require('./constants');
 require('log-timestamp');
 
+function slugify(string) {
+  return _.chain(string).deburr().kebabCase().value();
+}
+
 function normalizeData(videos) {
   return _.map(videos, v => {
     const { title, description, thumbnails, resourceId, publishedAt, localized, tags } = v.snippet;
@@ -18,14 +22,19 @@ function normalizeData(videos) {
     const descriptionObj = {
       en: localized.description, 
       fi: description
-    }
+    };
+    const slug = {
+      en: slugify(titleObj.en),
+      fi: slugify(titleObj.fi)
+    };
     return {
       _id: v.id,
       thumb: thumbnails.maxres.url ? thumbnails.maxres.url : v.snippet.thumbnails.high.url,
       time: publishedAt,
       title: titleObj,
       description: descriptionObj,
-      tags
+      tags,
+      slug
     };
   })
 }

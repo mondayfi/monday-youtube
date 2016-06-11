@@ -19,6 +19,7 @@ const VideoSchema = new Schema(
 	  time: Date,
 	  title: Schema.Types.Mixed,
 	  description: Schema.Types.Mixed,
+	  slug: Schema.Types.Mixed,
 	  tags: Array
 	},
 	{
@@ -30,8 +31,8 @@ const Video = mongoose.model('Video', VideoSchema);
 
 Promise.promisifyAll(Video);
 
-function find(query) {
- return Video.findAsync(query);
+function find(query, options) {
+ return Video.findAsync(query, options);
 }
 
 function update(query, data) {
