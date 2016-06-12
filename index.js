@@ -2,7 +2,7 @@ const _ = require('lodash');
 const express = require('express');
 const cors = require('cors');
 const db = require('./db');
-const port = 11284;
+const port = 3000;
 const app = express();
 
 app.use(cors());
