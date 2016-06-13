@@ -32,7 +32,17 @@ const Video = mongoose.model('Video', VideoSchema);
 Promise.promisifyAll(Video);
 
 function find(query, options) {
- return Video.findAsync(query, options);
+ 	return Video.findAsync(query, options);
+}
+
+function findOne(query, options) {
+ 	return Video.findOneAsync(query, options);
+}
+
+function findLatest() {
+	const query = Video.find({}).sort({time: -1}).limit(1);
+	return query.exec()
+		.then(d => _.head(d));
 }
 
 function update(query, data) {
@@ -45,6 +55,8 @@ function close() {
 
 module.exports = {
 	find,
+	findOne,
+	findLatest,
 	update,
 	close
 };

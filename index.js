@@ -9,8 +9,11 @@ app.use(cors());
 
 app.get('/videos/', (req, res) => db.find().then(d => res.json(d)));
 
+app.get('/videos/latest', (req, res) => db.findLatest().then(d => res.json(d)))
+
 app.get('/videos/:id', (req, res) => db.find({_id: req.params.id}).then(d => res.json(d)));
 
-app.get('/videos/:lng/:slug', (req, res) => db.find({[`slug.${req.params.lng}`]: req.params.slug}).then(d => res.json(d)));
+app.get('/videos/:lng/:slug', (req, res) => db.findOne({[`slug.${req.params.lng}`]: req.params.slug}).then(d => res.json(d)));
+
 
 app.listen(port, () => console.log(`Listening on port ${port} !`));
